@@ -167,10 +167,10 @@ bank-loan-analysis/
 ├── SQL/
 │   └── bank_loan_queries.sql       # All KPI queries used in the project
 │
-├── PowerBI/
+├── Power BI/
 │   └── bank_loan_dashboard.pbix    # Power BI report file
 │
-├── Data/
+├── Raw Data/
 │   └── financial_loan.csv          # Raw dataset
 │
 ├── Screenshots/
